@@ -20,3 +20,10 @@
 1. :wq - save and exits
 2. esc - command mode
 3. i - insert mode
+
+
+# Stay Wake
+1. Sleep well the night before
+2. Take Vitamin B Tablets
+3. Eat properly
+4. Drink Coffee
